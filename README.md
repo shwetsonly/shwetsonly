@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shwetsonly
 - 👀 I’m interested in devops and cloud
 - 🌱 I’m currently learning multicloud
-- 💞️ I’m looking to collaborate on cloud
+- 💞️ I’m looking to collaborate on cloud and devsecops
 - 📫 Reach me through shwetsonly@gmail.com
 
 <!---
